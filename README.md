@@ -16,6 +16,5 @@
    <a href = "https://lvmds.github.io/potifolioLVMdS" target="_blank"><img src="https://img.shields.io/github/watchers/LVMdS/LVMdS?color=%230CA272&label=PORTIF%C3%93LIO&logoColor=%230CA272&style=for-the-badge" target="_blank"></a>
    
  
-  ![Snake animation](https://github.com/LVMdS/LVMdS/blob/output/github-contribution-grid-snake.svg)
 
 </div>
