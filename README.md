@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do LVMdS 😁
+## Bem-vindo(a)
 <div>
    <a href="https://github.com/LVMdS">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LVMdS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
