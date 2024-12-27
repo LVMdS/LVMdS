@@ -6,8 +6,13 @@
       <br>
    
 
+💻 Desenvolvedor em Python e Java.
 
- 
+[![My Skills](https://skillicons.dev/icons?i=python,java,vscode,windows,linux&theme=dark&perline=15)](https://skillicons.dev)
+
+
+
+
   ### Contato:
 
 <div> 
@@ -16,7 +21,3 @@
 </div>
  
 </br>
-
-💻 Desenvolvedor em Python e Java.
-
-[![My Skills](https://skillicons.dev/icons?i=python,java,vscode,windows,linux&theme=dark&perline=15)](https://skillicons.dev)
