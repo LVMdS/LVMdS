@@ -8,7 +8,8 @@
 
 💻 Desenvolvedor em Python e Java.
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,vscode,windows,linux&theme=dark&perline=15)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,windows,linux,vscode&theme=dark&perline=15)](https://skillicons.dev)
 
 
 
