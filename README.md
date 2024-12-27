@@ -13,6 +13,8 @@
 <div> 
   <a href="https://www.linkedin.com/in/leonardo-vinicius-martins-de-souza-607560146/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
+</br>
 
 💻 Desenvolvedor em Python e Java.
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,vscode,windows,linux&theme=dark&perline=15)](https://skillicons.dev)
