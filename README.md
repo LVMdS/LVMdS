@@ -1,7 +1,8 @@
 ## Bem-vindo(a)
 
-![LVMdS GitHub stats](https://github-readme-stats.vercel.app/api?username=LVMdS&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-      <br>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
    
 
 💻
