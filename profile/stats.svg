@@ -12,7 +12,7 @@
         <desc id="descId">Total Stars Earned: 2, Total Commits  (last year) : 71, Total PRs: 5, Total Issues: 1, Contributed to (last year): 1</desc>
         <style>
           .header {
-            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif, bold;
+            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
             fill: #2C5A96;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
