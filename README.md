@@ -1,6 +1,5 @@
 ## Bem-vindo(a)
-<div>
-   <a href="https://github.com/LVMdS">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LVMdS)](https://github.com/anuraghazra/github-readme-stats)
       <br>
    
