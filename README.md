@@ -1,8 +1,7 @@
 ## Bem-vindo(a)
 <div>
    <a href="https://github.com/LVMdS">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LVMdS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      <br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LVMdS)](https://github.com/anuraghazra/github-readme-stats)
       <br>
    
 
