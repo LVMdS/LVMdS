@@ -1,11 +1,12 @@
-## Bem-vindo(a)
+## Bem-vindo(a) 💻
 
+<br>
 ![Stats](./profile/stats.svg)
 <br>
 ![Top Languages](./profile/top-langs.svg)
    
 
-💻
+<br><br>
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,windows,linux,vscode&theme=dark&perline=15)](https://skillicons.dev)
