@@ -40,7 +40,7 @@ Meu objetivo atual é conquistar a primeira oportunidade no mercado como **Desen
 Se você é um recrutador ou outro desenvolvedor, adoraria trocar uma ideia sobre tecnologia e oportunidades!
 
 * **GitHub:** [LVMdS](https://github.com/LVMdS)
-* **LinkedIn:** [Leonardo](linkedin.com/in/leonardo-vinicius-martins-de-souza/?skipRedirect=true)
+* **LinkedIn:** [Leonardo](https://www.linkedin.com/in/leonardo-vinicius-martins-de-souza/)
 * **Email:** [Email](leonardovinicius0220@gmail.com)
 
 ---
