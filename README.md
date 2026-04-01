@@ -19,4 +19,10 @@
 
 </br>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LVMdS&theme=tokyonight&hide_border=true"/>
+</div>
+
+<br>
+
 ![](https://komarev.com/ghpvc/?username=LVMdS&color=blue&abbreviated=true&style=plastic)
