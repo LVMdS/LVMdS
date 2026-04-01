@@ -41,7 +41,7 @@ Se você é um recrutador ou outro desenvolvedor, adoraria trocar uma ideia sobr
 
 * **GitHub:** [LVMdS](https://github.com/LVMdS)
 * **LinkedIn:** [Leonardo](https://www.linkedin.com/in/leonardo-vinicius-martins-de-souza/)
-* **Email:** [leonardovinicius0220@gmail.com]
+* **Email:** leonardovinicius0220@gmail.com
 
 ---
 *"A evolução é um processo contínuo, e cada linha de código é um degrau a mais."*
