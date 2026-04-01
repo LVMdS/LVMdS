@@ -1,16 +1,16 @@
 ## Olá eu sou Leonardo! Bem-Vindo(a)!! 💻
+![](https://komarev.com/ghpvc/?username=LVMdS&color=blue)
+
+<br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LVMdS&theme=github-dark-blue&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
 <br>
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,windows,linux,vscode&theme=dark&perline=15)](https://skillicons.dev)
 
 <br>
-
-![](https://komarev.com/ghpvc/?username=LVMdS&color=blue)
-
-
 
 
   ### Contato:
