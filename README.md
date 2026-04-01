@@ -1,4 +1,4 @@
-# Olá, eu sou o Leonardo! 👋💻
+# Olá, eu sou o Leonardo! 👋
 
 ### Desenvolvedor Front-End em Início de Carreira | Estudante de ADS
 
@@ -12,24 +12,9 @@ Estou em uma jornada de **evolução constante**, dedicando-me diariamente a apr
 
 Atualmente, trabalho no desenvolvimento de projetos utilizando o "trio fundamental" da web, além de explorar o ecossistema Linux e ferramentas de automação:
 
-* **Linguagens:**
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,windows,vscode&theme=dark&perline=3)](https://skillicons.dev)
-
-
-* **Versionamento:**
- <br>
- 
-  [![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark&perline=3)](https://skillicons.dev)
-
-
+* **Linguagens:** HTML5, CSS3 e JavaScript (ES6+).
+* **Versionamento:** Git & GitHub.
 * **Ambiente:** Entusiasta de Linux (LMDE/Mint) e Terminal.
-<br>
-
- [![My Skills](https://skillicons.dev/icons?i=linux&theme=dark&perline=15)](https://skillicons.dev)
- 
-  
 * **Foco Atual:** Aperfeiçoamento em lógica de programação e Clean Code.
 
 ---
@@ -48,18 +33,18 @@ Aqui no meu GitHub, você encontrará alguns dos meus trabalhos, como:
 
 Meu objetivo atual é conquistar a primeira oportunidade no mercado como **Desenvolvedor Júnior**. Acredito que a base sólida que venho construindo, somada à minha facilidade de aprendizado e adaptação, me torna um profissional pronto para somar em equipes ágeis.
 
-*"A evolução é um processo contínuo, e cada linha de código é um degrau a mais."*
 ---
-<br>
+
 ## 📬 Vamos conversar?
-<br>
 
-<div> 
-  <a href="https://www.linkedin.com/in/leonardo-vinicius-martins-de-souza-607560146/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=15" target="_blank"></a>
-    <a href="https://www.instagram.com/lvms1992" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark&perline=15" target="_blank"></a> 
-      <a href="leonardovinicius0220@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark&perline=15" target="_blank"></a>
-</div>
+Se você é um recrutador ou outro desenvolvedor, adoraria trocar uma ideia sobre tecnologia e oportunidades!
 
+* **GitHub:** [LVMdS](https://github.com/LVMdS)
+* **LinkedIn:** [Leonardo](linkedin.com/in/leonardo-vinicius-martins-de-souza/?skipRedirect=true)
+* **Email:** [Email](leonardovinicius0220@gmail.com)
+
+---
+*"A evolução é um processo contínuo, e cada linha de código é um degrau a mais."*
 <br>
 
 
