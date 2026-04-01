@@ -15,13 +15,13 @@ Atualmente, trabalho no desenvolvimento de projetos utilizando o "trio fundament
 * **Linguagens:**
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,windows,linux,vscode&theme=dark&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,windows,vscode&theme=dark&perline=3)](https://skillicons.dev)
 
 
 * **Versionamento:**
  <br>
  
-  [![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark&perline=15)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark&perline=3)](https://skillicons.dev)
 
 
 * **Ambiente:** Entusiasta de Linux (LMDE/Mint) e Terminal.
