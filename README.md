@@ -1,7 +1,6 @@
 ## Bem-vindo(a) 💻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LVMdS&show_icons=true&theme=radical)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=LVMdS&theme=github-dark-blue&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 <br>
 
 
