@@ -13,12 +13,15 @@ Estou em uma jornada de **evolução constante**, dedicando-me diariamente a apr
 Atualmente, trabalho no desenvolvimento de projetos utilizando o "trio fundamental" da web, além de explorar o ecossistema Linux e ferramentas de automação:
 
 * **Linguagens:**
+<br>
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,windows,linux,vscode&theme=dark&perline=15)](https://skillicons.dev)
 
-* **Versionamento:** 
+* **Versionamento:**
+ <br>
   [![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark&perline=15)](https://skillicons.dev)
 
 * **Ambiente:** Entusiasta de Linux (LMDE/Mint) e Terminal.
+<br>
  [![My Skills](https://skillicons.dev/icons?i=linux&theme=dark&perline=15)](https://skillicons.dev)
   
 * **Foco Atual:** Aperfeiçoamento em lógica de programação e Clean Code.
@@ -39,14 +42,17 @@ Aqui no meu GitHub, você encontrará alguns dos meus trabalhos, como:
 
 Meu objetivo atual é conquistar a primeira oportunidade no mercado como **Desenvolvedor Júnior**. Acredito que a base sólida que venho construindo, somada à minha facilidade de aprendizado e adaptação, me torna um profissional pronto para somar em equipes ágeis.
 
----
-
-
-
----
 *"A evolução é um processo contínuo, e cada linha de código é um degrau a mais."*
+---
+<br>
+## 📬 Vamos conversar?
+  ### Contato:
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,windows,linux,vscode&theme=dark&perline=15)](https://skillicons.dev)
+<div> 
+  <a href="https://www.linkedin.com/in/leonardo-vinicius-martins-de-souza-607560146/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=15" target="_blank"></a>
+    <a href="https://www.instagram.com/lvms1992" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark&perline=15" target="_blank"></a> 
+      <a href="leonardovinicius0220@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark&perline=15" target="_blank"></a>
+</div>
 
 <br>
 
@@ -65,11 +71,4 @@ Meu objetivo atual é conquistar a primeira oportunidade no mercado como **Desen
   
 </div>
 
-## 📬 Vamos conversar?
-  ### Contato:
 
-<div> 
-  <a href="https://www.linkedin.com/in/leonardo-vinicius-martins-de-souza-607560146/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=15" target="_blank"></a>
-    <a href="https://www.instagram.com/lvms1992" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark&perline=15" target="_blank"></a> 
-      <a href="leonardovinicius0220@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark&perline=15" target="_blank"></a>
-</div>
