@@ -6,7 +6,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,windows,linux,vscode&theme=dark&perline=15)](https://skillicons.dev)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+<br>
+
+![](https://komarev.com/ghpvc/?username=LVMdS&color=blue)
 
 
 
