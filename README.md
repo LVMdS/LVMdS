@@ -14,15 +14,21 @@ Atualmente, trabalho no desenvolvimento de projetos utilizando o "trio fundament
 
 * **Linguagens:**
 <br>
+
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,windows,linux,vscode&theme=dark&perline=15)](https://skillicons.dev)
+
 
 * **Versionamento:**
  <br>
+ 
   [![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark&perline=15)](https://skillicons.dev)
+
 
 * **Ambiente:** Entusiasta de Linux (LMDE/Mint) e Terminal.
 <br>
+
  [![My Skills](https://skillicons.dev/icons?i=linux&theme=dark&perline=15)](https://skillicons.dev)
+ 
   
 * **Foco Atual:** Aperfeiçoamento em lógica de programação e Clean Code.
 
@@ -46,7 +52,7 @@ Meu objetivo atual é conquistar a primeira oportunidade no mercado como **Desen
 ---
 <br>
 ## 📬 Vamos conversar?
-  ### Contato:
+<br>
 
 <div> 
   <a href="https://www.linkedin.com/in/leonardo-vinicius-martins-de-souza-607560146/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=15" target="_blank"></a>
