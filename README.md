@@ -19,4 +19,4 @@
 
 </br>
 
-![](https://komarev.com/ghpvc/?username=LVMdS&color=blue&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=LVMdS&color=blue&abbreviated=true&style=plastic)
