@@ -19,9 +19,7 @@
 
 </br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=LVMdS&theme=tokyonight&hide_border=true"/>
-</div>
+<img src="https://raw.githubusercontent.com/LVMdS/LVMdS/output/snake.svg" alt="Snake animation" />
 
 <br>
 
