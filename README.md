@@ -1,10 +1,12 @@
-## Bem-vindo(a) 💻
+## Olá eu sou Leonardo! Bem-Vindo(a)!! 💻
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LVMdS&theme=github-dark-blue&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 <br>
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,windows,linux,vscode&theme=dark&perline=15)](https://skillicons.dev)
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 
 
