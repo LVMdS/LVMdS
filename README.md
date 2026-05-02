@@ -1,8 +1,8 @@
 # Olá, eu sou o Leonardo! 👋
 
-### Desenvolvedor Front-End em Início de Carreira | Estudante de ADS
+### Analise e desenvolvimento de sistemas
 
-Sou um desenvolvedor apaixonado por tecnologia, atualmente cursando **Análise e Desenvolvimento de Sistemas**. Meu foco principal é a criação de interfaces modernas, funcionais e responsivas, buscando sempre equilibrar estética e usabilidade.
+Sou um entusiasua apaixonado por tecnologia, atualmente aguardando a colação de grau em **Análise e Desenvolvimento de Sistemas**. Meu foco principal é a criação de interfaces modernas, funcionais e responsivas, buscando sempre equilibrar estética e usabilidade.
 
 Estou em uma jornada de **evolução constante**, dedicando-me diariamente a aprimorar minhas habilidades técnicas e a aprender novas ferramentas para entregar soluções de alta qualidade.
 
@@ -12,7 +12,7 @@ Estou em uma jornada de **evolução constante**, dedicando-me diariamente a apr
 
 Atualmente, trabalho no desenvolvimento de projetos utilizando o "trio fundamental" da web, além de explorar o ecossistema Linux e ferramentas de automação:
 
-* **Linguagens:** HTML5, CSS3 e JavaScript (ES6+).
+* **Linguagens:** HTML5, CSS3, JavaScript (ES6+), Python e Java.
 * **Versionamento:** Git & GitHub.
 * **Ambiente:** Entusiasta de Linux (LMDE/Mint) e Terminal.
 * **Foco Atual:** Aperfeiçoamento em lógica de programação e Clean Code.
