@@ -12,9 +12,9 @@ Estou em uma jornada de **evolução constante**, dedicando-me diariamente a apr
 
 Atualmente, trabalho no desenvolvimento de projetos utilizando o "trio fundamental" da web, além de explorar o ecossistema Linux e ferramentas de automação:
 
-* **Linguagens:** HTML5, CSS3, JavaScript (ES6+), Python e Java.
+* **Linguagens:** HTML5, CSS3, JavaScript (ES6+), r Python.
 * **Versionamento:** Git & GitHub.
-* **Ambiente:** Entusiasta de Linux (LMDE/Mint) e Terminal.
+* **Ambiente:** Entusiasta de Linux (Debian) e Terminal.
 * **Foco Atual:** Aperfeiçoamento em lógica de programação e Clean Code.
 
 ---
