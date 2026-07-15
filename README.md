@@ -1,4 +1,4 @@
-# Olá, eu sou o Leonardo! 👋
+# Oi, eu sou o Leonardo! 👋
 
 ### Analise e desenvolvimento de sistemas
 
