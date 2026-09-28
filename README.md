@@ -2,7 +2,7 @@
 
 ### Analise e desenvolvimento de sistemas
 
-Sou um entusiasua apaixonado por tecnologia, atualmente aguardando a colação de grau em **Análise e Desenvolvimento de Sistemas**. Meu foco principal é a criação de interfaces modernas, funcionais e responsivas, buscando sempre equilibrar estética e usabilidade.
+Sou um entusiasua apaixonado por tecnologia, graduado em **Análise e Desenvolvimento de Sistemas**. Meu foco principal é a criação de interfaces modernas, funcionais e responsivas, buscando sempre equilibrar estética e usabilidade.
 
 Estou em uma jornada de **evolução constante**, dedicando-me diariamente a aprimorar minhas habilidades técnicas e a aprender novas ferramentas para entregar soluções de alta qualidade.
 
